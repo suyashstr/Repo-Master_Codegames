@@ -1,0 +1,46 @@
+.container {
+    background-color: #d4f4c3;
+}
+
+/* body {
+    display: block;
+    overflow: hidden;
+} */
+/* 
+.back {
+    background-image: url(../src/component/font/backgrounf.png);
+    height: 100rem;
+    background-color: black;
+    margin-top: -5rem;
+} */
+
+body {
+    background-color: #fffeec;
+}
+
+@font-face {
+    font-family: retrogaming;
+    src: url(./font/retrogaming.ttf);
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+.fontlav {
+    font-family: retrogaming, monospace !important;
+    font-size: 1rem;
+    color: #000;
+    /* margin-bottom: 20px; */
+    /* height: 2rem; */
+
+}
+
+.button-courses{
+    height:100px;
+    width:400px;
+    background-color:#6eb318 !important;
+    color: #000 !important;
+    border-radius: 26px !important;
+}
