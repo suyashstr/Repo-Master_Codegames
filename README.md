@@ -69,9 +69,9 @@ The platform is primarily aimed at:
     
 * Drishti Malavade
     
-* Surveshkumar Chourasia 
-    
 * Suyash Mane 
+    
+* Surveshkumar Chourasia
     
 * Supervisor: Dr. Suvarna Pansambal
 
