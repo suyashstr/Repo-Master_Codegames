@@ -75,6 +75,10 @@ The platform is primarily aimed at:
     
 * Supervisor: Dr. Suvarna Pansambal
 
+## Publication
+
+Our technical paper on Code Quest is available on the IJSREM website: https://ijsrem.com/download/code-quest-gamified-platform-to-learn-programming/
+
 ## Acknowledgments
 
 We would like to thank Atharva College of Engineering for providing the platform to develop this project and Dr. Suvarna Pansambal for her guidance and support.
